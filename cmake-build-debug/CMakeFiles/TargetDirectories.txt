@@ -1,0 +1,3 @@
+C:/Users/Demon/CLionProjects/Dec_to_Hex/cmake-build-debug/CMakeFiles/Dec_To_Hex.dir
+C:/Users/Demon/CLionProjects/Dec_to_Hex/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Demon/CLionProjects/Dec_to_Hex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
